@@ -1,0 +1,19 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "args": [
+        "<",
+        "/Users/z002r1c/Documents/workspace/Algorithms and Data Structures MicroMasters/Data Structures Fundamentals/starters_edx/week1_basic_data_structures_starters/check_brackets_in_code/tests/01"
+      ]
+    }
+  ]
+}
